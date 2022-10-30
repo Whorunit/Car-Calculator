@@ -83,7 +83,7 @@ layout = [
                 [
                     sg.Tab('ENGINE CALC', engine_volume_calc_layout),
                     sg.Tab('GEAR CALC', gear_calc_layout),
-                    sg.Tab('TEST', tab3_layout)
+                    sg.Tab('TEST2', tab3_layout)
                 ]
             ],
             key='-group2-', tab_location='bottom'
